@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav {
+    height: 50px;
+    width: 100%;
+    padding-top: 10px;
+
+}
+
+.container {
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px 5px;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 80px;
+}
+
+nav ul li {
+    margin-right: 20px;
+    font-weight: bold;
+    font-size: medium;
+}
+span{
+    color: black;
+}
+a{
+    text-decoration: none;
+}
+.style{
+list-style: none;
+}
